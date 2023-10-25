@@ -4,6 +4,7 @@
 - Sou estudante de Sistemas de Informação na Universidade Federal do Rio Grande (FURG)
 - Técnico em Geoprocessamento pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS) 🌎🗺️🌐
 - Atuo atualmente como estagiário/bolsista na Compass UOL através do Programa de Bolsas em Machine Learning com AWS 🧭
+- Além disso, também atuo como bolsista na equipe de Deploy do projeto Text of Things do iTec/FURG-Embrapii - Centro de Robótica e Ciência de Dados.
 
 <div align="center">
   <a href="https://github.com/FeMarzani">
@@ -21,6 +22,8 @@
   <img align="center" alt="Marzani-Docker" height="28" width="42" src="https://icongr.am/devicon/docker-original.svg?size=148&color=00f030" />
   <img align="center" alt="Marzani-Python" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Marzani-R" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg">
+  <img align="center" alt="Marzani-AWS" height="28" width="42" src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor">
+    <img align="center" alt="Marzani-Flask" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/flask/flask-original-wordmark.svg">
 </div>
 
 ## Redes Sociais ℹ️
