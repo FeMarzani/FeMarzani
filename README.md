@@ -3,8 +3,8 @@
 ## Informações ℹ️
 - Sou estudante de Sistemas de Informação na Universidade Federal do Rio Grande (FURG)
 - Técnico em Geoprocessamento pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS) 🌎🗺️🌐
-- Atuo atualmente como estagiário/bolsista na Compass UOL através do Programa de Bolsas em Machine Learning com AWS 🧭
-- Além disso, também atuo como bolsista na equipe de Deploy do projeto Text of Things do iTec/FURG-Embrapii - Centro de Robótica e Ciência de Dados.
+- Recentemente, concluí meu período no programa de bolsas de Machine Learning com AWS na Compass UOL, onde pude obter conhecimentos técnicos em diversos serviços da AWS 🧭
+- Atualmente, atuo como bolsista na equipe de Deploy do projeto Text of Things do iTec/FURG-Embrapii - Centro de Robótica e Ciência de Dados.
 
 <div align="center">
   <a href="https://github.com/FeMarzani">
