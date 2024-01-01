@@ -24,7 +24,7 @@
   <img align="center" alt="Marzani-R" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Marzani-AWS" height="28" width="42" src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Marzani-Flask" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/flask/flask-original-wordmark.svg">
-  <img align="center" alt="Marzani-Localstack" height="28" width="42" src="https://avatars.githubusercontent.com/u/28732122?s=280&v=4">
+  <img align="center" alt="Marzani-Localstack" height="25" width="42" src="https://localstack.gallerycdn.vsassets.io/extensions/localstack/localstack/0.1.1/1689254756002/Microsoft.VisualStudio.Services.Icons.Default">
 </div>
 
 ## Redes Sociais ℹ️
