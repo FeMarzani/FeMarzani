@@ -23,7 +23,8 @@
   <img align="center" alt="Marzani-Python" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Marzani-R" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Marzani-AWS" height="28" width="42" src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor">
-    <img align="center" alt="Marzani-Flask" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/flask/flask-original-wordmark.svg">
+  <img align="center" alt="Marzani-Flask" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/flask/flask-original-wordmark.svg">
+  <img align="center" alt="Marzani-Localstack" height="28" width="42" src="https://repository-images.githubusercontent.com/71948498/f26593ad-e0d7-475d-9a86-615917b9ad8e">
 </div>
 
 ## Redes Sociais ℹ️
