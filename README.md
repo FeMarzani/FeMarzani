@@ -19,7 +19,7 @@
   <img align="center" alt="Marzani-Javascript" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marzani-Nodejs" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Marzani-Git" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Marzani-Docker" height="28" width="42" src="https://icongr.am/devicon/docker-original.svg?size=148&color=00f030" />
+  <img align="center" alt="Marzani-Docker" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Marzani-Python" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Marzani-R" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Marzani-AWS" height="28" width="42" src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor">
