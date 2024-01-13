@@ -22,7 +22,7 @@
   <img align="center" alt="Marzani-Docker" height="34" width="42" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Marzani-Python" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Marzani-R" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="Marzani-AWS" height="44" width="60" src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Marzani-AWS" height="28" width="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png">
   <img align="center" alt="Marzani-Flask" height="44" width="60" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="Marzani-Localstack" width="25" src="https://localstack.gallerycdn.vsassets.io/extensions/localstack/localstack/0.1.1/1689254756002/Microsoft.VisualStudio.Services.Icons.Default">
 </div>
